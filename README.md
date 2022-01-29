@@ -1,1 +1,2 @@
-# NextStep_Study
+# 자바 웹 프로그래밍 Next Step
+위 교재를 바탕으로 학습
