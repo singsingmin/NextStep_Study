@@ -10,7 +10,6 @@ public class StringCalculator {
 		}
 		
 		return sum(toInts(split(str)));
-		
 	}
 
 	private boolean isBlank(String str) {
