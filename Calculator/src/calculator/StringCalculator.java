@@ -8,7 +8,6 @@ public class StringCalculator {
 		if(isBlank(str)) {
 			return 0;
 		}
-		
 		return sum(toInts(split(str)));
 	}
 
